@@ -1,35 +1,5 @@
-# OpenForge
-项目初衷
- 
-这是一个零起点开源项目——仓库初始状态为空，所有代码、文档、功能都将由开发者共同填充。我们希望打造一个纯粹的协作空间，无论你是想练习技术、验证创意，还是寻找志同道合的伙伴，都能在这里从零开始，一起书写项目的未来。
- 
-为什么加入？
- 
-- 自由共建：没有预设框架，你可以主导技术方向、定义功能模块；
-- 技术成长：与不同背景的开发者协作，积累实战经验；
-- 创意落地：你的想法有机会成为项目核心，被全球开发者看见；
-- 合规协作：基于MIT协议
- 
-如何开启共建？
- 
-1. 创建你的起点：
-- Fork本仓库，在本地创建第一个文件（如README、示例代码、功能规划文档）；
-- 提交Pull Request，附上你的设计思路或功能说明。
-2. 参与方向建议：
-- 基础架构：设计项目框架、技术栈选型（如前端/后端/跨平台）；
-- 工具类：开发实用小工具（文件处理、数据可视化、效率脚本等）；
-- 学习型：打造教学案例（算法实现、设计模式演示、新手入门项目）；
-- 创意型：提出独特功能构想（如开源小游戏、社区协作平台、趣味API）。
-3. 协作规则：
-- 提交代码时请添加清晰注释，关键模块附上设计说明；
-- 新功能建议先通过Issue讨论，避免重复开发；
-- 尊重他人贡献，修改前请与原作者沟通（通过Issue或PR评论）。
+## 中文介绍
+OpenForge 是一个类似 AList 的项目，使用 Go 语言开发。该项目提供了文件索引和分享功能，支持多平台和多种存储方式。项目包含标准的目录结构，如 `handlers`、`models`、`router` 等，方便开发者进行扩展和维护。
 
- 
-呼唤共建者
- 
-现在，仓库还是一片空白——
-你可以写下第一行代码，画下第一张架构图，或是在Issue里抛出第一个创意。
-无论你是资深开发者还是新手，你的每一次提交，都将成为项目的一块基石。
- 
-点击Fork，开始你的开源共建之旅吧！ 🌟
+## English Introduction
+OpenForge is a project similar to AList, developed in Go. This project provides file indexing and sharing functions, supporting multiple platforms and various storage methods. The project includes a standard directory structure, such as `handlers`, `models`, `router`, etc., which is convenient for developers to expand and maintain.
